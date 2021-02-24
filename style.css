@@ -1,0 +1,68 @@
+/*--- main body styles ---*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 1%;
+}
+
+.main-section {
+  margin: 1%;
+  padding: 2%;
+  border: 1px solid black;
+}
+
+h1 {
+  font-size: 18pt;
+  margin: 3%;
+}
+
+h2 {
+  font-size: 15pt;
+}
+
+p {
+  font-size: 12pt;
+}
+
+section {
+  margin: 1%;
+  padding: 2%;
+  border: solid 1px black;
+}
+
+.show-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 5% 2%; 
+  padding: 2%;
+  border: solid 1px black;
+  border-radius: 3px;
+}
+
+.add-button {
+  margin: 3% 20%;
+  padding: 3%;
+  border: solid 1px black;
+  border-radius: 3px;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.nav-button {
+  text-align: center;
+  margin: 1%;
+  padding: 2%;
+  width: 31%;
+  border: 1px solid black;
+}
+
