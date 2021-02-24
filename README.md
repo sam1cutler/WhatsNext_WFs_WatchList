@@ -3,7 +3,7 @@
 ## General Description
 This is an HTML wireframe for the WatchList of <b>What's Next?</b>, an app to create TV show watch lists and logs of previously-watched shows, and connect with friends over the app. 
 
-Find the GitHub Pages-hosted page [here]().
+Find the GitHub Pages-hosted page [here](https://sam1cutler.github.io/WhatsNext_WFs_WatchList/).
 
 ## Contact me
 You can find [my GitHub page here](https://github.com/sam1cutler).
